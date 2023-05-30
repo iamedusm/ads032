@@ -1,0 +1,16 @@
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  padding-left: 16px;
+  width: 20rem;
+}
+
+a {
+  text-decoration: none;
+  color: #9da2a8;
+}
+
+.active {
+  color: #0da698;
+}
